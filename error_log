@@ -1,0 +1,97 @@
+[31-Aug-2026 19:56:51 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:56:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:56:53 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:56:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:56:54 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:56:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:56:56 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:56:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:57:02 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:57:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:57:18 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:57:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:57:42 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 19:57:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 11
+[31-Aug-2026 20:12:15 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 1
+[31-Aug-2026 20:12:24 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 1
+[31-Aug-2026 20:12:55 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 1
+[31-Aug-2026 20:13:00 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/tyucdeii/ap.radinskateomd.ir/dashboard.php on line 1
+[01-Sep-2026 09:09:11 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 188
+[01-Sep-2026 09:09:11 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 189
+[01-Sep-2026 09:09:11 UTC] PHP Warning:  Undefined variable $error in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 192
+[01-Sep-2026 09:09:11 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 196
+[01-Sep-2026 09:09:11 UTC] PHP Warning:  Undefined variable $step in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 210
+[01-Sep-2026 09:09:11 UTC] PHP Warning:  Undefined variable $phone in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 222
+[01-Sep-2026 09:09:11 UTC] PHP Warning:  Undefined variable $phone in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 225
+[01-Sep-2026 09:09:15 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 188
+[01-Sep-2026 09:09:15 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 189
+[01-Sep-2026 09:09:15 UTC] PHP Warning:  Undefined variable $error in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 192
+[01-Sep-2026 09:09:15 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 196
+[01-Sep-2026 09:09:15 UTC] PHP Warning:  Undefined variable $step in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 210
+[01-Sep-2026 09:09:15 UTC] PHP Warning:  Undefined variable $phone in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 222
+[01-Sep-2026 09:09:15 UTC] PHP Warning:  Undefined variable $phone in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 225
+[01-Sep-2026 09:09:16 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 188
+[01-Sep-2026 09:09:16 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 189
+[01-Sep-2026 09:09:16 UTC] PHP Warning:  Undefined variable $error in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 192
+[01-Sep-2026 09:09:16 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 196
+[01-Sep-2026 09:09:16 UTC] PHP Warning:  Undefined variable $step in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 210
+[01-Sep-2026 09:09:16 UTC] PHP Warning:  Undefined variable $phone in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 222
+[01-Sep-2026 09:09:16 UTC] PHP Warning:  Undefined variable $phone in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 225
+[01-Sep-2026 09:09:32 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 188
+[01-Sep-2026 09:09:32 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 189
+[01-Sep-2026 09:09:32 UTC] PHP Warning:  Undefined variable $error in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 192
+[01-Sep-2026 09:09:32 UTC] PHP Warning:  Undefined variable $mode in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 196
+[01-Sep-2026 09:09:32 UTC] PHP Warning:  Undefined variable $step in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 210
+[01-Sep-2026 09:09:32 UTC] PHP Warning:  Undefined variable $phone in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 222
+[01-Sep-2026 09:09:32 UTC] PHP Warning:  Undefined variable $phone in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 225
+[02-Sep-2026 00:42:04 Asia/Tehran] PHP Warning:  require_once(/home/tyucdeii/ap.radinskateomd.ir/tenant.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 14
+[02-Sep-2026 00:42:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tyucdeii/ap.radinskateomd.ir/tenant.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 14
+[02-Sep-2026 00:42:11 Asia/Tehran] PHP Warning:  require_once(/home/tyucdeii/ap.radinskateomd.ir/tenant.php): Failed to open stream: No such file or directory in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 14
+[02-Sep-2026 00:42:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tyucdeii/ap.radinskateomd.ir/tenant.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tyucdeii/ap.radinskateomd.ir/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/login.php on line 14
+[01-Sep-2026 21:20:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tyucdeii/ap.radinskateomd.ir/attendance.php on line 78
+[01-Sep-2026 21:20:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tyucdeii/ap.radinskateomd.ir/attendance.php on line 99
+[01-Sep-2026 21:24:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tyucdeii/ap.radinskateomd.ir/attendance.php on line 78
+[01-Sep-2026 21:24:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tyucdeii/ap.radinskateomd.ir/attendance.php on line 99
+[02-Sep-2026 01:36:39 Asia/Tehran] SMS Error: Username/Password is empty in settings table.
+[02-Sep-2026 01:37:13 Asia/Tehran] SMS Error: Username/Password is empty in settings table.
+[02-Sep-2026 01:39:51 Asia/Tehran] SMS Error: Username/Password is empty in settings table.
+[02-Sep-2026 01:39:53 Asia/Tehran] SMS Error: Username/Password is empty in settings table.
+[02-Sep-2026 01:39:56 Asia/Tehran] SMS Error: Username/Password is empty in settings table.
+[02-Sep-2026 01:39:57 Asia/Tehran] SMS Error: Username/Password is empty in settings table.
+[02-Sep-2026 02:44:40 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'authority' in 'INSERT INTO' in /home/tyucdeii/ap.radinskateomd.ir/payments.php:144
+Stack trace:
+#0 /home/tyucdeii/ap.radinskateomd.ir/payments.php(144): PDO->prepare()
+#1 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/payments.php on line 144
+[02-Sep-2026 02:45:17 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'authority' in 'INSERT INTO' in /home/tyucdeii/ap.radinskateomd.ir/payments.php:144
+Stack trace:
+#0 /home/tyucdeii/ap.radinskateomd.ir/payments.php(144): PDO->prepare()
+#1 {main}
+  thrown in /home/tyucdeii/ap.radinskateomd.ir/payments.php on line 144

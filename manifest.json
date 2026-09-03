@@ -1,0 +1,46 @@
+{
+  "id": "/",
+  "name": "باشگاه رادین اسکیت",
+  "short_name": "رادین اسکیت",
+  "description": "سامانه مدیریت و خدمات هنرجویان باشگاه رادین اسکیت",
+  "start_url": "/dashboard.php",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "fa-IR",
+  "categories": ["sports", "education"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://ap.radinskateomd.ir/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://ap.radinskateomd.ir/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://ap.radinskateomd.ir/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "پیشخوان رادین اسکیت"
+    },
+    {
+      "src": "https://ap.radinskateomd.ir/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "پنل کاربری رادین اسکیت"
+    }
+  ]
+}
